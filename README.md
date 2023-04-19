@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UserisAhmed
-- 👀 I’m interested in flutter & unity 
-- 🌱 I’m currently learning flutter & unity
+- 👋 Hi, I’m Ahmed
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on making a better community 
 - 📫 How to reach me ...
 
